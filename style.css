@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family:'Asfalt' ;
+    src: url();
+}
+
+/* Now this is an annotation */
+
+h1{
+    text-align: center;
+    font-size: 5em;
+}
+
+
+body{
+    margin-left: 200px;
+    background-color: darksalmon;
+}
+
+
+#susan {
+    text-align: left;
+    color: greenyellow;
+}
+
+.listcat {
+    background-color: blue;
+    font-size: 3rem;
+    position: sticky;
+    top: 3vh;
+    margin-top: 100px;
+    width: 50%;
+}
